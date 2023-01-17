@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FormHandling/static/css/main.3f6b18d0.css",
+    "main.js": "/FormHandling/static/js/main.70e50651.js",
+    "static/js/787.1c3898d3.chunk.js": "/FormHandling/static/js/787.1c3898d3.chunk.js",
+    "index.html": "/FormHandling/index.html",
+    "main.3f6b18d0.css.map": "/FormHandling/static/css/main.3f6b18d0.css.map",
+    "main.70e50651.js.map": "/FormHandling/static/js/main.70e50651.js.map",
+    "787.1c3898d3.chunk.js.map": "/FormHandling/static/js/787.1c3898d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f6b18d0.css",
+    "static/js/main.70e50651.js"
+  ]
+}
